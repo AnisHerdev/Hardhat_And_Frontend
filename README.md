@@ -15,7 +15,7 @@ This project is a simple blockchain-based application designed to demonstrate th
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/AnisHerdev/Hardhat_And_Frontend.git
    ```
 2. Navigate to the project directory:
    ```bash
